@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\bin\Debug\Магазин спецодежды.exe.config
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\bin\Debug\Магазин спецодежды.exe
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\bin\Debug\Магазин спецодежды.pdb
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин спецодежды.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.Properties.Resources.resources
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин спецодежды.csproj.GenerateResource.cache
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин спецодежды.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин спецодежды.exe
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин спецодежды.pdb
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.Form1.resources
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.Register.resources
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.Product.resources
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.About.resources
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.BugReportForm.resources
+C:\Users\Vadim\Desktop\Магазин спецодежды\Магазин спецодежды\obj\Debug\Магазин_спецодежды.Cart.resources
